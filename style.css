@@ -1,0 +1,58 @@
+body{
+  background-color: rgb(16, 166, 175);
+}
+
+h1 {
+  text-align: center;
+  color: rgb(199, 76, 61);
+  font-family: Impact;
+  text-shadow: 2px 2px gold;
+  font-size: 3em;
+}
+#container {
+  width: 1000px;
+  position: center;
+  margin: auto;
+}
+
+#library {
+  width: 900px;
+  position: center;
+  margin: auto;
+}
+
+.card {
+  float: left;
+  border: thick solid  rgb(199, 76, 61);
+  border-radius: 10px;
+  padding: 10px;
+  margin: 22px;
+  width: 150px;
+  text-align: center;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  background: gold;
+  
+}
+
+button {
+  background: rgb(199, 76, 61);
+  border-radius: 10px;
+  color: gold;
+  border:0px;
+}
+
+
+input {
+  border-radius: 10px;
+  background: rgb(249, 249, 221);
+  border: 0px;
+}
+
+form{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color:gold;
+  text-align: center;
+  background-color: rgb(49, 120, 124);
+  line-height: 1.5em;
+}
+
