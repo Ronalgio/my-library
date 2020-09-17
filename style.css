@@ -39,6 +39,19 @@ button {
   border-radius: 10px;
   color: gold;
   border:0px;
+  padding: 5px;
+}
+
+button:hover {
+  font-size:medium;
+}
+
+#delete
+{float: right
+}
+
+.read-button {
+  float: left
 }
 
 
@@ -54,5 +67,7 @@ form{
   text-align: center;
   background-color: rgb(49, 120, 124);
   line-height: 1.5em;
+  padding: 10px;
+  border-radius: 10px;
 }
 
